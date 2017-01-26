@@ -15,6 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
   <distributionManagement>
   <repository>
   <id>deployment</id>
@@ -22,5 +23,6 @@
   <url>http://54.171.181.49:8082/nexus/content/repositories/hsbc-rekha-release/</url>
   </repository>
  
+
 
 </project>
