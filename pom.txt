@@ -23,11 +23,6 @@
   <url>http://54.171.181.49:8082/nexus/content/repositories/hsbc-rekha-release/</url>
   </repository>
  
-  <snapshotRepository>
-<id>deployment</id>
-<name>Internal Releases</name>
-<url>http://54.171.181.49:8082/nexus/content/repositories/hsbc-rekha-snapshot/</url>
-</snapshotRepository>
-</distributionManagement>
+
 
 </project>
